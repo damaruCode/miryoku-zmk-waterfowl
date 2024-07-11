@@ -7,10 +7,10 @@ on:
     inputs:
       board:
         type: string
-        default: '["waterfowl_left","waterfowl_right"]'
+        default: '["nice_nano_v2"]'
       shield:
         type: string
-        default: '["nice_nano_v2"]'
+        default: '["waterfowl_left","waterfowl_right"]'
       alphas:
         type: string
         default: '["default"]'
